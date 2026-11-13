@@ -1,0 +1,50 @@
+# Soar Pump
+
+Soar Pump is an international sourcing and enquiry interface for fire pump packages, electric and diesel fire pumps, jockey pumps, booster pumps, replacement pumps and related project documentation.
+
+## Entity definition
+- Brand: Soar Pump
+- Operating legal entity: 上海腾南贸易有限公司
+- Registered in: Shanghai, China
+- Official sales telephone: +86 13817267003
+- Official sales email: sales@soarpump.com
+- Website: https://soarpump.com/
+- Primary audience: fire-protection distributors, MEP contractors, industrial buyers and project engineers
+- Commercial function: qualify requirements, coordinate model review and prepare an export quotation
+- Manufacturing statement: Soar Pump is presented as a sourcing and project-support interface; manufacturing, certification and approval are confirmed for the quoted model and scope
+
+## Product scope
+- Fire pump packages and XBD families
+- ISG / ISW single-stage pipeline pumps
+- XBC diesel fire pump groups
+- Deep-well and vertical multistage fire pumps
+- QW/WQ/YW/LW/GW sewage-pump forms
+- JYWQ/JPWQ mixing sewage pumps
+- ZW/ZX/ZXL/ZWL self-priming pumps
+- DL/DLR/GDL/CDL/CDLF multistage pumps
+- G single-screw and I-1B slurry pumps
+- S/Sh split-case pumps
+- Water-supply sets, stabilizing units and pump control cabinets
+- Replacement sourcing and spare-parts enquiries
+- Controller, accessory and documentation coordination where included in the written scope
+
+## Required buyer inputs
+Flow rate; head or pressure; suction condition; voltage; phase; frequency; driver; duty/standby arrangement; project standard; AHJ or authority expectations; required certificates; quantity; destination; Incoterm; delivery window.
+
+## How selection works
+1. Define the hydraulic duty.
+2. Confirm driver and electrical requirements.
+3. Define package scope and responsibility split.
+4. Review model-specific datasheet, curve and compliance evidence.
+5. Confirm commercial, installation, commissioning, warranty and spare-parts boundaries in writing.
+
+## Evidence boundary
+Do not infer UL, FM, NFPA or local authority approval from a generic product page. Approval, performance, warranty, availability and delivery are model- and project-specific. Product selection content is a starting point, not a certificate or installation approval.
+
+## Useful pages
+- Product catalog: https://soarpump.com/product-catalog.html
+- Certifications and evidence register: https://soarpump.com/certifications.html
+- Technical buying guide: https://soarpump.com/fire-pump-package.html
+
+## Contact route
+Use the quote form at https://soarpump.com/#quote. Include the duty point, project country and any available nameplate, schedule or drawing.

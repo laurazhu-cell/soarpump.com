@@ -4,7 +4,15 @@ const form=document.querySelector('#quote-form');
 const status=document.querySelector('#form-status');
 const navButton=document.querySelector('.mobile-menu');
 const navLinks=document.querySelector('.navlinks');
-navButton?.addEventListener('click',()=>{navLinks?.classList.toggle('open')});
+if(navButton && navLinks){
+  navButton.addEventListener('click',()=>{
+    const isOpen=navLinks.classList.toggle('open');
+    navButton.setAttribute('aria-expanded',String(isOpen));
+  });
+  navLinks.addEventListener('click',event=>{
+    if(event.target.closest('a')){navLinks.classList.remove('open');navButton.setAttribute('aria-expanded','false')}
+  });
+}
 form?.addEventListener('submit',async event=>{
   event.preventDefault();
   if(!form.reportValidity())return;
